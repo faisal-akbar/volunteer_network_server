@@ -42,7 +42,7 @@ Note: Admin authentication functionality is not added yet, so anyone can add eve
 - Dotenv
 - nodemon
 
-[Back-end Repository](https://github.com/faisalcep/volunteer_network_server)
+[Front-end Repository](https://github.com/faisalcep/volunteer_network_client)
 
 ---
 
